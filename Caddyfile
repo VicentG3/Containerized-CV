@@ -1,5 +1,5 @@
 vixx.es {
-    root * 
+    root * /var/www/html
     encode gzip
     file_server
 }
