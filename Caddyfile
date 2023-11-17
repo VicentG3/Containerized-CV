@@ -1,0 +1,5 @@
+vixx.es {
+    root * 
+    encode gzip
+    file_server
+}
